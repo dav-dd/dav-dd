@@ -1,10 +1,6 @@
-<h1 align="center">Hi there! 👋 Welcome to my GitHub playground!</h1>
-<br>
+<h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  I'm David (aka dav-dd)!
-</p>
-<p align="center">
-  I code for the joy of crafting small, potentially useful projects.
+  I'm David! Welcome to my GitHub playground!
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dav-dd&label=Profile%20views&color=1ED520&style=flat" />
@@ -17,8 +13,6 @@
   <a href="https://mariadb.com/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></a>
   <a href="https://mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <br>
-  <a href="https://nextjs.com/"><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs"></a>
-  <a href="https://nodejs.com/"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs"></a>
   <a href="https://www.json.org/"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
