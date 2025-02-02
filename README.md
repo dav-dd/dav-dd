@@ -3,7 +3,7 @@
   I'm David! Welcome to my GitHub playground!
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dav-dd&label=Profile%20views&color=1ED520&style=flat" />
+  <img src="https://hit.yhype.me/github/profile?account_id=64094198" />
 </p>
 <br>
 <p align="center">
